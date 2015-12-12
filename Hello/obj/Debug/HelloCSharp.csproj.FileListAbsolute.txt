@@ -1,0 +1,6 @@
+c:\users\airfan\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello\bin\Debug\Hello.exe.config
+c:\users\airfan\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello\bin\Debug\Hello.exe
+c:\users\airfan\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello\bin\Debug\Hello.pdb
+c:\users\airfan\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\airfan\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello\obj\Debug\Hello.exe
+c:\users\airfan\documents\visual studio 2013\Projects\Intro-Programming-Homework\Hello\obj\Debug\Hello.pdb

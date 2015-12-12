@@ -1,0 +1,5 @@
+C:\Users\airfan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequenceTo1000\bin\Debug\SequenceTo1000.exe.config
+C:\Users\airfan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequenceTo1000\bin\Debug\SequenceTo1000.exe
+C:\Users\airfan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequenceTo1000\bin\Debug\SequenceTo1000.pdb
+C:\Users\airfan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequenceTo1000\obj\Debug\SequenceTo1000.exe
+C:\Users\airfan\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequenceTo1000\obj\Debug\SequenceTo1000.pdb
